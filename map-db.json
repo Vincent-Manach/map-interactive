@@ -1,0 +1,205 @@
+
+{
+    "features": [
+        {
+            "properties": {
+                "name": "Gold Coast",
+                "popupContent": "This is where my plane landed when i came in Australia"
+            },
+            "geometry": {
+                "lat": "-28.16667800406691",
+                "long": "153.51349599757995"
+            }
+        },
+        {
+            "properties": {
+                "name": "Southbank",
+                "popupContent": "We already took a flatmate so we went directly to the house, based in Gold Coast, in Southbank to be precise"
+            },
+            "geometry": {
+                "lat": "-27.976317227762657",
+                "long": "153.39920669012088"
+            }
+        },
+        {
+            "properties": {
+                "name": "Tully Memorial Park",
+                "popupContent": "We spend our first camping night in this freecamp. We slept in our car for the first time and that was so great ! I was so excited to start our adventure"
+            },
+            "geometry": {
+                "lat": "-27.78299095547836",
+                "long": "153.00953588956258"
+            }
+        },
+        {
+            "properties": {
+                "name": "Caboolture Showgrounds",
+                "popupContent": "This is where the Rockies play!"
+            },
+            "geometry": {
+                "lat": "-27.066922445529226",
+                "long": "152.9478204829458"
+            }
+        },
+        {
+            "properties": {
+                "name": "Stradbroke Island",
+                "popupContent": "We spent few days on Stradbroke Island. We had the chance to see some kangaroos and to (caresser) them"
+            },
+            "geometry": {
+                "lat": "-27.51872106397183",
+                "long": "153.46302094416788"
+            }
+        },
+        {
+            "properties": {
+                "name": "Clifton",
+                "popupContent": "After few days that we take to find a new job we went to Clifton, a little city where we found a picking job at 15 - 20 min from here. Our work was to pick some millet (a type of cereal) in a little family farm. The lady was so kind with us. She was preparing a breakfast everyday for us with some fresh milk and fresh eggs from their hen" 
+            },
+            "geometry": {
+                "lat": "-27.926618283242636",
+                "long": "151.91338995127165"
+            }
+        },
+        {
+            "properties": {
+                "name": "Rabbits Eat Lettuce Festival",
+                "popupContent": "With my friends we already took a ticket for this festival when we still were at the flatmate and we were really excited to discover the ambiance of the festival, the happiness and costumes of every people and of course the satges and their sets, ready to give us some amazing music" 
+            },
+            "geometry": {
+                "lat": "-28.412618197275595",
+                "long": "152.1405008776577"
+            }
+        },
+        {
+            "properties": {
+                "name": "Emerald",
+                "popupContent": "Then we spent few days to recover after that huge party. We traveled a bit while trying to get a job and we saw that farmers were looking for workers in Emerald for the grape harvest so we went to Emerald and started to work in the grapes. That was really cool to work with all my friends in a good ambiance with music sometimes but we had to be better and faster to earn more money." 
+            },
+            "geometry": {
+                "lat": "-23.532481795970185",
+                "long": "148.15772684242518"
+            }
+        },
+        {
+            "properties": {
+                "name": "Byron bay",
+                "popupContent": "After than we having worked to get enough money to continue our trip we went to Byron Bay, a beautiful city at the far-northeastern corner of the country. The landscapes were so gorgeous especially from the lighthouse." 
+            },
+            "geometry": {
+                "lat": "-28.64656582667993",
+                "long": "153.62040559118316"
+            }
+        },
+        {
+            "properties": {
+                "name": "Gayndah",
+                "popupContent": "We came in Gayndah to work in the oranges so for two days we were looking for a job in the city. We found one and we started the same day but after one hour i broke my right ankle. What a nice worker i am :') So i stayed in the camping while doing nothing every day for one month, that was really annoying. But i met lot of nice people so that was also cool" 
+            },
+            "geometry": {
+                "lat": "-25.62484925597194",
+                "long": "151.60781246268925"
+            }
+        },
+        {
+            "properties": {
+                "name": "Orin-Aya Festival",
+                "popupContent": "After that my friend finished his work, we went to festival in the north of the country with some people that we met in Gayndah. The festival was smaller than the Rabbits Eat Lettuce but people were more friendly and happy. We were like a big family that was so cool. I spent all the festival with chair cause of my crutches but i can say that i enjoyed it a lot. We met two people who were so nice that we decided to continue our trip with them" 
+            },
+            "geometry": {
+                "lat": "-15.747795285551048",
+                "long": "145.28745542473212"
+            }
+        },
+        {
+            "properties": {
+                "name": "North visit - Daintree Forest",
+                "popupContent": "So we travelled with our new friends in the North of the Queensland (a state) for few days to visit it. That was really impressive, the forest was huge and the temperature was wet. We had lot of points of view on the road so we could stop a bit and admire the landscape" 
+            },
+            "geometry": {
+                "lat": "-16.172928113484684",
+                "long": "145.42592915625787"
+            }
+        },
+        {
+            "properties": {
+                "name": "Airlie Beach",
+                "popupContent": "We decided to stop our cars in Airlie Beach, first cause the point of view is amazing around there with the Great Barrier Reef and the color of the sea is so gorgeous and second, cause we did a place tour over the Great Barrier Reef and that was unbelievable" 
+            },
+            "geometry": {
+                "lat": "-20.267382281607954",
+                "long": "148.71744124115355" 
+            }
+        },
+        {
+            "properties": {
+                "name": "Rockhampton",
+                "popupContent": "After that we splitted and my friend and i decided that i had to stay in a backpack in city cause of my broken ankle. I had to take rest to heal my leg and to start the rehabilitation. So i was alone in a backpack for approximately 3 months. That was boring sometimes but it it allowed me to improve my english skills with other customers. Then an other friend came from France to join me. We spent 2 weeks before in the same backpack before to go join my other friend." 
+            },
+            "geometry": {
+                "lat": "-23.36889619594266",
+                "long": "150.52259739371308"
+            }
+        },
+        {
+            "properties": {
+                "name": "Brisbane",
+                "popupContent": "After that we splitted and my friend and i decided that i had to stay in a backpack in city cause of my broken ankle. I had to take rest to heal my leg and to start the rehabilitation. So i was alone in a backpack for approximately 3 months. That was boring sometimes but it it allowed me to improve my english skills with other customers. Then an other friend came from France to join me. We spent 2 weeks before in the same backpack before to go join my other friend." 
+            },
+            "geometry": {
+                "lat": "-27.471738910906595", 
+                "long": "153.01589493533442"
+            }
+        },
+        {
+            "properties": {
+                "name": "Sydney",
+                "popupContent": "After that we splitted and my friend and i decided that i had to stay in a backpack in city cause of my broken ankle. I had to take rest to heal my leg and to start the rehabilitation. So i was alone in a backpack for approximately 3 months. That was boring sometimes but it it allowed me to improve my english skills with other customers. Then an other friend came from France to join me. We spent 2 weeks before in the same backpack before to go join my other friend." 
+            },
+            "geometry": {
+                "lat": "-33.87605881652203",
+                "long": "151.21351355978294"
+            }
+        },
+        {
+            "properties": {
+                "name": "Canberra",
+                "popupContent": "After that we splitted and my friend and i decided that i had to stay in a backpack in city cause of my broken ankle. I had to take rest to heal my leg and to start the rehabilitation. So i was alone in a backpack for approximately 3 months. That was boring sometimes but it it allowed me to improve my english skills with other customers. Then an other friend came from France to join me. We spent 2 weeks before in the same backpack before to go join my other friend." 
+            },
+            "geometry": {
+                "lat": "-35.312013530558545", 
+                "long": "149.1198939953838"
+            }
+        },
+        {
+            "properties": {
+                "name": "Melbourne",
+                "popupContent": "This is where the Rockies play!"
+            },
+            "geometry": {
+                "lat": "-37.807498037507095",
+                "long": "145.02701676423027"
+            }
+        },
+        {
+            "properties": {
+                "name": "Morwell River Falls",
+                "popupContent": "This is where the Rockies play!"
+            },
+            "geometry": {
+                "lat": "-38.47832765520669", 
+                "long": "146.32986726583755"
+            }
+        },
+        {
+            "properties": {
+                "name": "Forbes",
+                "popupContent": "This is where the Rockies play!"
+            },
+            "geometry": {
+                "lat": "-33.3884143133367",
+                "long": "147.9979125522572"
+            }
+        }
+    ]
+}
